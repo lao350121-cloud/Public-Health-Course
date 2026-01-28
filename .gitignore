@@ -1,0 +1,12 @@
+.DS_Store
+.Rhistory
+
+# Documents / binaries (avoid pushing to a public repo)
+*.pdf
+*.docx
+
+# Course readings / extracted texts (often copyrighted)
+L3/
+Lecture/
+_text/
+
